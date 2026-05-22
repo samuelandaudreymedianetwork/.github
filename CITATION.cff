@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this profile directory, please cite it as below."
+type: dataset
+title: "Samuel & Audrey Media Network — Hugging Face Dataset Hub"
+authors:
+  - family-names: "Jeffery"
+    given-names: "Samuel"
+    affiliation: "Samuel & Audrey Media Network"
+    orcid: "https://orcid.org/0009-0006-3748-9630"
+    email: "nomadicsamuel@gmail.com"
+  - family-names: "Bergner"
+    given-names: "Audrey"
+    affiliation: "Samuel & Audrey Media Network"
+    orcid: "https://orcid.org/0009-0007-2249-0441"
+repository-code: "https://huggingface.co/samuelandaudreymedianetwork"
+url: "https://huggingface.co/samuelandaudreymedianetwork"
+license: "CC-BY-NC-4.0"
+keywords:
+  - Hugging Face dataset hub
+  - media archive
+  - travel datasets
+  - YouTube transcripts
+  - photography metadata
+  - article corpora
+  - Samuel and Audrey Media Network

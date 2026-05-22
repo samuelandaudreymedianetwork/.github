@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Samuel & Audrey Media Network — Hugging Face Dataset Hub",
+  "description": "Structured profile records for Samuel & Audrey Media Network Hugging Face datasets and websites.",
+  "oneOf": [
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "record_id": {
+          "type": "string"
+        },
+        "record_type": {
+          "const": "dataset_profile_entry"
+        },
+        "dataset_name": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "hugging_face_url": {
+          "type": "string"
+        },
+        "doi_url": {
+          "type": "string"
+        },
+        "languages": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "record_id",
+        "record_type",
+        "dataset_name",
+        "slug",
+        "hugging_face_url"
+      ]
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "record_id": {
+          "type": "string"
+        },
+        "record_type": {
+          "const": "network_site"
+        },
+        "site": {
+          "type": "string"
+        },
+        "focus": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "record_id",
+        "record_type",
+        "site",
+        "url"
+      ]
+    }
+  ]
+}

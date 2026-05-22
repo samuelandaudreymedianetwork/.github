@@ -1,0 +1,65 @@
+{
+  "profile": "samuelandaudreymedianetwork",
+  "title": "Samuel & Audrey Media Network — Hugging Face Dataset Hub",
+  "generated_utc": "2026-05-21T23:55:31.393809+00:00",
+  "records_total": 21,
+  "record_counts_by_type": {
+    "dataset_profile_entry": 14,
+    "network_site": 7
+  },
+  "hugging_face_organization": "https://huggingface.co/samuelandaudreymedianetwork",
+  "dataset_directory_repository": "https://huggingface.co/datasets/samuelandaudreymedia/samuelandaudreymedia",
+  "network_website": "https://samuelandaudrey.com",
+  "license": "CC-BY-NC-4.0",
+  "cleanup_note": "Lightweight Hugging Face organization profile/directory package. Full datasets remain in their own repositories.",
+  "files": {
+    ".gitattributes": {
+      "bytes": 127,
+      "sha256": "f884ab5acc3c44d244496ca3be708ee0bb81d627d6b78ba33331abd90b1d7f68"
+    },
+    "CITATION.cff": {
+      "bytes": 860,
+      "sha256": "485f953827eb5a7b23fa8aa05c81dba09af234d70df5aa1db9f8db8a6d47ccfa"
+    },
+    "DATA_DICTIONARY.md": {
+      "bytes": 1302,
+      "sha256": "3ca3a0c4733d7c2a7b1c4cd603fe11e940214bd1a072c3c732b19b01a5782473"
+    },
+    "LICENSE.txt": {
+      "bytes": 736,
+      "sha256": "872bd0251f4d63a8f1c4a52f4e4db4a8cb56471dddb55d26e301d595681ffa4d"
+    },
+    "MANIFEST.json": {
+      "bytes": 2281,
+      "sha256": "c0b309d9dcfd005a4dfbaf1c4e651c3723a0f5783432dcd0036cd23c02b59ed8"
+    },
+    "README.md": {
+      "bytes": 7492,
+      "sha256": "600fbff6be42033e12247234e59e0ae1d3e1ec8413cd0c36f284759fedc018ca"
+    },
+    "SCHEMA.json": {
+      "bytes": 1644,
+      "sha256": "a2990d66c2f887928711c2df680cc18efca51542cf6ee4c357c98b27f6b3b9b5"
+    },
+    "llms.txt": {
+      "bytes": 938,
+      "sha256": "f39f6276bf2070a8d95c98b1e0a148b88626993a1b8eb55abf49e6f4aa2e281a"
+    },
+    "samuelandaudreymedianetwork-huggingface-datasets.csv": {
+      "bytes": 7054,
+      "sha256": "70f455d950a4c7d41bc52c650b782df1b3d8c197cfc15fac2969a56c6244e4b0"
+    },
+    "samuelandaudreymedianetwork-huggingface-datasets.jsonl": {
+      "bytes": 8897,
+      "sha256": "430784e420e8be955d52a729359e04cdcc59f7062c83dcb6619174a805e3bd37"
+    },
+    "samuelandaudreymedianetwork-sites.jsonl": {
+      "bytes": 1316,
+      "sha256": "51b7e69201edc5c60e11a7e71d6d1bdcbc15bfaf2d0eae255fb7f1605143d488"
+    }
+  },
+  "doi_update_note": {
+    "academic-citations-and-media-references": "https://doi.org/10.57967/hf/8887",
+    "youtube-travel-videos-metadata-index": "https://doi.org/10.57967/hf/8888"
+  }
+}

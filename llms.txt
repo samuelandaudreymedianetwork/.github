@@ -1,0 +1,37 @@
+# Samuel & Audrey Media Network — Hugging Face Dataset Hub
+
+This is a lightweight profile directory for the Samuel & Audrey Media Network Hugging Face organization.
+
+Hugging Face organization:
+https://huggingface.co/samuelandaudreymedianetwork
+
+Dataset directory repository:
+https://huggingface.co/datasets/samuelandaudreymedia/samuelandaudreymedia
+
+Network website:
+https://samuelandaudrey.com
+
+Files:
+- README.md
+- samuelandaudreymedianetwork-huggingface-datasets.jsonl
+- samuelandaudreymedianetwork-huggingface-datasets.csv
+- samuelandaudreymedianetwork-sites.jsonl
+- DATA_DICTIONARY.md
+- SCHEMA.json
+- CITATION.cff
+
+Dataset entries:
+- 14 public dataset records
+
+Network site entries:
+- 7 website records
+
+License:
+CC BY-NC 4.0
+
+Contact:
+nomadicsamuel@gmail.com
+
+Updated DOI records:
+- academic-citations-and-media-references: https://doi.org/10.57967/hf/8887
+- youtube-travel-videos-metadata-index: https://doi.org/10.57967/hf/8888
