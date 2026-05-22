@@ -1,12 +1,3 @@
----
-title: Samuel & Audrey Media Network
-emoji: 🗂️
-colorFrom: blue
-colorTo: green
-sdk: static
-pinned: false
----
-
 # Samuel & Audrey Media Network
 
 **Samuel & Audrey Media Network** is an independent publishing and media archive created by Samuel Jeffery and Audrey Bergner.
